@@ -1,0 +1,2 @@
+# skin-ecommerce-website
+skinEcommerceWebsite is my first Capstone Project. It is an online cosmetics store made with HTML, CSS and JavaScript. The project contains a functional shopping cart, allows the user to enter a discount code as well as set a delivery option and is charged accordingly. The other features are is the user is able to add items to the cart and when the user is redirected from one page to another or refreshes the page the data enter will remain. This project is for developers wanting to create an online store.
